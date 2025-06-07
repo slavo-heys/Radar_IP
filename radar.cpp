@@ -15,6 +15,17 @@
 using json = nlohmann::json; // Alias dla typu json jest bardzo wygodny.
 
 int main() {
+    // Wyświetlenie logo
+    std::cout << R"(
+ ____  _            _    
+|  _ \| |          | |   
+| |_) | | __ _  ___| | __
+|  _ <| |/ _` |/ __| |/ /
+| |_) | | (_| | (__|   < 
+|____/|_|\__,_|\___|_|\_\
+       radar IP by black
+)" << std::endl << std::endl;
+
     std::string ip;
     std::cout << "Podaj adres IP: ";
     std::cin >> ip;
