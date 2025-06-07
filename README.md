@@ -1,3 +1,13 @@
+```
+ ____  _            _    
+|  _ \| |          | |   
+| |_) | | __ _  ___| | __
+|  _ <| |/ _` |/ __| |/ /
+| |_) | | (_| | (__|   < 
+|____/|_|\__,_|\___|_|\_\
+       radar IP by black
+```
+
 # Radar IP
 
 Prosty program konsolowy w C++ do pobierania i wyświetlania publicznie dostępnych informacji geolokalizacyjnych oraz sieciowych dla podanego adresu IP. Wykorzystuje zewnętrzne API (ip-api.com) do uzyskania danych.
