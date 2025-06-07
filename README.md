@@ -93,7 +93,6 @@ Po pomyślnej kompilacji, program można uruchomić z terminala:
 
 ```bash
 ./radar
-
  ____  _            _    
 |  _ \| |          | |   
 | |_) | | __ _  ___| | __
