@@ -94,8 +94,14 @@ Po pomyślnej kompilacji, program można uruchomić z terminala:
 ```bash
 ./radar
 
----------------------------------------------------------------------------------------
-## Przykład użycia
+ ____  _            _    
+|  _ \| |          | |   
+| |_) | | __ _  ___| | __
+|  _ <| |/ _` |/ __| |/ /
+| |_) | | (_| | (__|   < 
+|____/|_|\__,_|\___|_|\_\
+       radar IP by black
+
 Podaj adres IP: 8.8.8.8
 Informacje o adresie IP: 
 IP: 8.8.8.8
